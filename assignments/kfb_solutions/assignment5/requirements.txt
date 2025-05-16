@@ -1,0 +1,10 @@
+beautifulsoup4
+requests
+transformers
+torch
+pandas
+tqdm
+seaborn
+matplotlib
+scikit-learn
+bertopic

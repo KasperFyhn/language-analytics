@@ -1,0 +1,5 @@
+{"id": 1, "name": "first example", "someObject": {"key": "value"}, "someList": [1, 2, 3]}
+{"id": 2, "name": "second example", "someObject": {"key": "value"}, "someList": [1]}
+{"id": 3, "name": "third example", "someObject": {"key": "value"}, "someList": [1, 3]}
+{"id": 4, "name": "fourth example", "someObject": {"key": "value"}, "someList": []}
+{"id": 5, "name": "fifth example", "someObject": {"key": "value"}, "someList": [1, 2, 3]}

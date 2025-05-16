@@ -1,0 +1,13 @@
+{
+  "aString": "the value of the string",
+  "anInteger": 1,
+  "aFloat": 1.23,
+  "aBoolean": true,
+  "aListOfIntegers": [
+    1, 2, 3
+  ],
+  "anObject": {
+    "aString": "the value of the string (different from the one in the outermost object",
+    "anInteger": 1234
+  }
+}

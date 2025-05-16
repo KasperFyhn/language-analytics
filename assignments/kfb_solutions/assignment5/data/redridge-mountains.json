@@ -1,0 +1,254 @@
+[
+    {
+        "id": "116",
+        "title": "Dry Times",
+        "level": 15,
+        "zone": "Redridge Mountains",
+        "text": "I find myself in quite a pinch here, <name>.  The bottles are close to running dry.  The latest booze shipment is long overdue.  The orc invasion has been hell.   Perhaps you can go to work for me?   I need you to pick up a keg of Thunderbrew Lager from Grimbooze Thunderbrew in the Westfall hills, a cask of Merlot from Stormwind, a bottle of Moonshine from Darkshire and a skin of Sweet Rum from Goldshire.  Bring those back to me and I will see to it you are rewarded."
+    },
+    {
+        "id": "249",
+        "title": "Morganth",
+        "level": 27,
+        "zone": "Redridge Mountains",
+        "text": "After much observation, I have discovered Morganth's plans.   He searches for the Scythe of Elune...and he may have found it!  If he has, then the Redridge Mountains , and the kingdom of Stormwind, will soon feel his dark might.   I am not prepared to pit myself against Morganth, but I fear he must be dealt with now.  So you must enter the Tower of Ilgalar and face Morganth.   Defeat him, and bring me his Pendant of Shadow .  Do this, and the kingdom will owe you much."
+    },
+    {
+        "id": "248",
+        "title": "Looking Further",
+        "level": 22,
+        "zone": "Redridge Mountains",
+        "text": "I have been watching the Tower of Ilgalar, and can detect that Morganth is in conflict with the Orcs in Stonewatch Keep.  I do not know the reason behind their contention, but you may aid me in unraveling this mystery.   Take another Glyph of Azora , then go to the top of the intact watch tower beside Stonewatch Keep.   Find a suitable object on which to place the Glyph.  A chest or a jar -- some place where the glyph will not be noticed -- will suit my purpose."
+    },
+    {
+        "id": "19",
+        "title": "Tharil'zun",
+        "level": 25,
+        "zone": "Redridge Mountains",
+        "text": "Blackrock Outrunners and Renegades are running ambushes between here and Stonewatch Keep.  The leader of the Outrunners is an orc named Tharil'zun--we want this orc.  Bring me the head of Tharil'zun!"
+    },
+    {
+        "id": "126",
+        "title": "Howling in the Hills",
+        "level": 25,
+        "zone": "Redridge Mountains",
+        "text": "<name>, the gnolls are still out there.  I can hear their baying as they hunt in the hills above Lakeshire.  And one cry is louder than the rest - Yowler,  their leader.   Kill Yowler and send his pack scattering!  Bring me his paw as proof.   And be careful, this gnoll is their leader for a reason.  He is no Mongrel..."
+    },
+    {
+        "id": "94",
+        "title": "A Watchful Eye",
+        "level": 21,
+        "zone": "Redridge Mountains",
+        "text": "My rival, Morganth, is a vicious mage of great power who lives in the Tower of Ilgalar in Redridge.  I have developed a means of spying on him, the Eye of Azora, and can now view him from afar.   But to study his thoughts ... I require further aid.   If you are willing, then take my Glyph of Azora to the Tower of Ilgalar.  Place it upon the Lion Statue near the Tower.   When this is done, the power of Azora will grant visions of Morganth's future plans."
+    },
+    {
+        "id": "120",
+        "title": "Messenger to Stormwind",
+        "level": 14,
+        "zone": "Redridge Mountains",
+        "text": "These are trying times, <class>.  The township is under constant siege.  Without reinforcements, we will certainly face defeat.  The message I now entrust to you is of utmost importance.  Get this report to General Marcus Jonathan of Stormwind immediately.  Once your delivery is made, return to me at once with any news, be it good or bad.   Now make haste!"
+    },
+    {
+        "id": "125",
+        "title": "The Lost Tools",
+        "level": 16,
+        "zone": "Redridge Mountains",
+        "text": "I could really use a hand here, <name>.  With the town under siege, it's been hard to get supplies.  My tools were being delivered from Goldshire by wagon but the bridge was blown out.  We put the tools in a boat but the orcs hit it with a catapult.  Just my luck, my toolbox sank right to the bottom of the lake.   Retrieve my toolbox, <name>, and I'll make it worth your while."
+    },
+    {
+        "id": "178",
+        "title": "Theocritus' Retrieval",
+        "level": 23,
+        "zone": "Redridge Mountains",
+        "text": "<You hear a disembodied voice...>   Do not be alarmed.  I am Theocritus , High Mage of Tower Azora in Elwynn Forest.  The pendant you are holding is a method of communication between the Shadowhide Gnolls and their master, Morganth.   Through months of research, I believe I too can communicate through these pendants.  If you can hear this message, then my spell was a success.   Bring me this pendant and I will reward you for the service."
+    },
+    {
+        "id": "3741",
+        "title": "Hilary's Necklace",
+        "level": 15,
+        "zone": "Redridge Mountains",
+        "text": "My friend Hilary lost her necklace, and we can't find it.  We've been fishing all day right here, and we looked around here already.  The only thing I can think of is that it fell into the lake.  Our parents don't want us to swim in the lake... my mom says there's some mean things underwater, but you look like you aren't scared of mean things.   Could you find it for her, please?"
+    },
+    {
+        "id": "128",
+        "title": "Blackrock Bounty",
+        "level": 25,
+        "zone": "Redridge Mountains",
+        "text": "The Blackrock Clan must be destroyed. The Enemy has invaded our lands. These mountains fall under the sovereign right of the King of Stormwind. Our sources tell us that the leaders of each unit within the Clan are known as Champions. You'll find them in their encampment to the north, just west of the road to the Burning Steppes.   Magistrate Solomon wants these foul brutes dead. Slay 15 Blackrock Champions and return to me."
+    },
+    {
+        "id": "219",
+        "title": "Missing In Action",
+        "level": 25,
+        "zone": "Redridge Mountains",
+        "text": "At last, friends of the Alliance!   Help... please...   The last thing I remember these foul Orcs overpowered our regiment.  Most the men were killed. I took a strong blow to the head and everything went black. Now I am held captive in this cave.  Help me, I am hurt badly.   I'll need help getting back to town... please... you're my last hope..."
+    },
+    {
+        "id": "20",
+        "title": "Blackrock Menace",
+        "level": 21,
+        "zone": "Redridge Mountains",
+        "text": "The Blackrock orcs have travelled from the Burning Steppes and claimed Stonewatch Keep to the north.  From there they maraud the areas north of Lakeshire and keep its citizens in town, penned like cattle.   Help rid Lakeshire of this menace.  Kill these Blackrock orcs and bring me ten of their Battleworn Axes as proof.   And although Blackrocks threaten us from the north, we've received reports of more in the southeastern pocket of Redridge.  If you find any there, then they too should be hunted."
+    },
+    {
+        "id": "89",
+        "title": "The Everstill Bridge",
+        "level": 20,
+        "zone": "Redridge Mountains",
+        "text": "During the last orc invasion we were forced to smelt our iron down to make bullets, swords and armor.  We sent word to Stormwind for a new shipment of materials but a band of Redridge gnolls hijacked the caravan and ran off into the hills behind Lakeshire.   Now we're coming up short on supplies to get this bridge rebuilt.  If you can bring me 5 iron pikes and 5 iron rivets , <name>, I'll make sure you're rewarded.   Now let's get to work!"
+    },
+    {
+        "id": "92",
+        "title": "Redridge Goulash",
+        "level": 18,
+        "zone": "Redridge Mountains",
+        "text": "Nothing would please me more than to make you some Redridge Goulash . But there's a slight problem. During the recent orc uprising I fed the entire brigade of Stormwind troops. My cupboard is now bare. But if you can provide me with the ingredients, I'd be happy to oblige.   Just bring me five pieces of Tough Condor Meat , five Great Goretusk Snouts and five helpings of Crisp Spider Meat ."
+    },
+    {
+        "id": "115",
+        "title": "Shadow Magic",
+        "level": 23,
+        "zone": "Redridge Mountains",
+        "text": "The Blackrock orcs enlisted shadowcasters to aid their attacks in Redridge, and they have brought with them devices of dark power-- midnight orbs .  These orbs have struck telling blows against Redridge's defenders, and it's imperative we remove the demon-tainted items from the conflict.   Find and deliver to me midnight orbs from slain Blackrock shadowcasters.  I will then have them disposed of, for this world would be a better place without them!"
+    },
+    {
+        "id": "180",
+        "title": "Wanted: Lieutenant Fangore",
+        "level": 26,
+        "zone": "Redridge Mountains",
+        "text": "Wanted: Lieutenant Fangore   Known leader of the Shadowhide Gnoll Clan, working under the enemy of the Township and Kingdom, Morganth.  By mandate of Magistrate Solomon , this vile betrayer of Stormwind is wanted dead.  Show his paw to the Magistrate as proof of his death."
+    },
+    {
+        "id": "246",
+        "title": "Assessing the Threat",
+        "level": 17,
+        "zone": "Redridge Mountains",
+        "text": "We don't have men to spare, but something must be done about those gnolls you reported to me.   Scout southern Redridge for gnolls.  Harry them, kill those you can and report back to me with a count of their numbers and an assessment of the threat they present.  You may find those gnolls camped all along the southern road of Redridge.   Do this for the Stormwind Army, <name>, and you will be rewarded."
+    },
+    {
+        "id": "121",
+        "title": "Messenger to Stormwind",
+        "level": 14,
+        "zone": "Redridge Mountains",
+        "text": "While I wait for a response from the King I want you to carry this letter to Magistrate Solomon .   Dismissed, <class>!"
+    },
+    {
+        "id": "124",
+        "title": "A Baying of Gnolls",
+        "level": 20,
+        "zone": "Redridge Mountains",
+        "text": "As if the attacking orcs weren't enough!  Now I have gnoll brutes and mystics prowling along the ridge north of my stable, taking my horses when they stray...   If you can get rid of those gnolls, my horses and I would be very grateful."
+    },
+    {
+        "id": "122",
+        "title": "Underbelly Scales",
+        "level": 18,
+        "zone": "Redridge Mountains",
+        "text": "I need some underbelly scales from black dragon whelps to pay for the shoes Argus sent me from Goldshire.  If you can get 6 of them for me, then I can pay Argus with some... and have enough left to fashion something for you.   Black dragon whelps are often flying around south of Lakeshire, but they like to wander.  You might have to just keep an eye out and hunt them when you see them."
+    },
+    {
+        "id": "150",
+        "title": "Murloc Poachers",
+        "level": 20,
+        "zone": "Redridge Mountains",
+        "text": "Murlocs are becoming a problem.  Larger groups of the fishmen are dropping anchor along the shores of Lake Everstill and fishing up a storm!  We need them gone before they eat all the fish in the lake!   Hunt murlocs!  Bring me eight of their fins and I might have something for you..."
+    },
+    {
+        "id": "169",
+        "title": "Wanted: Gath'Ilzogg",
+        "level": 26,
+        "zone": "Redridge Mountains",
+        "text": "Wanted! Gath'Ilzogg, Leader of the Blackrock attacks on Stonewatch Keep and raids against the township of Lakeshire.   Gath'Ilzogg is extremely dangerous.  He is reportedly holed up in the recently conquered keep plotting the Blackrock clan's further crimes against humanity.  The orc infestation must be quelled at all costs.  A gracious reward will be given to whatever brave soul can deliver the head of Gath'Ilzogg to Magistrate Solomon ."
+    },
+    {
+        "id": "127",
+        "title": "Selling Fish",
+        "level": 21,
+        "zone": "Redridge Mountains",
+        "text": "Lake Everstill is famous for its spotted sunfish .  There's always demand for them...and I'm running low!   Bring me a batch of 10 and I'll barter well for them.  If you can't fish yourself, then...maybe you can get them off the murlocs!"
+    },
+    {
+        "id": "146",
+        "title": "Messenger to Darkshire",
+        "level": 18,
+        "zone": "Redridge Mountains",
+        "text": "If I did not know Magistrate Solomon personally, I would say the man has gone mad.  Send the Night Watch to Lakeshire because Stormwind refuses aid?  The Night Watch was formed because Stormwind left us when this foul magic seeped into the land.  If I sent my Night Watch, this town would be overrun by evil before the guards even reached the forest's edge."
+    },
+    {
+        "id": "143",
+        "title": "Messenger to Westfall",
+        "level": 14,
+        "zone": "Redridge Mountains",
+        "text": "Something odd is afoot with the Stormwind Army.  They should have been here in force by now.  Time is a luxury we don't have, however.  I will not stand by and watch the people of Lakeshire give their lives without trying to enlist more help.  I've heard word of a people's militia forming in Westfall.   Take this plea to their leader, Gryan Stoutmantle .  Perhaps Stoutmantle's men can lend some support here until the King sends reserves."
+    },
+    {
+        "id": "91",
+        "title": "Solomon's Law",
+        "level": 23,
+        "zone": "Redridge Mountains",
+        "text": "An enemy of Stormwind has taken up residence in the eastern foothills of Redridge. This wicked villain uses the Arcane to spread terror and misery upon our town and our people. Under the name, Morganth, he conducts his evil business.   Morganth now controls the Shadowhide Gnoll Clan to perform his biddings. As stated by the Law of Lakeshire, aiding a criminal of the Kingdom is punishable by death.   These vile gnolls must be killed!   Turn in 10 Shadowhide Pendants to me, and you shall be rewarded."
+    },
+    {
+        "id": "144",
+        "title": "Messenger to Westfall",
+        "level": 14,
+        "zone": "Redridge Mountains",
+        "text": "Magistrate Solomon 's note pains me to read.  But it is obvious he knows not the war which is waged in Westfall or else he would know better than to expect aid from the Militia.  If Stormwind had not deserted us as well, we would not have the need for the Militia.   Take this response to your master in Redridge, <class>.  And let him know that my heart is heavy with the loss of good men."
+    },
+    {
+        "id": "145",
+        "title": "Messenger to Darkshire",
+        "level": 18,
+        "zone": "Redridge Mountains",
+        "text": "I require your assistance once again.  I have written to Lord Ebonlocke, requesting that he sends his trained guards, the Night Watch, to help with Lakeshire's defense.  It is imperative this message makes it to him swiftly.  You must exercise extreme caution.  Ebonlocke is the mayor of Darkshire, in the heart of Duskwood.  Do not stray from the roads."
+    },
+    {
+        "id": "119",
+        "title": "Return to Verner",
+        "level": 18,
+        "zone": "Redridge Mountains",
+        "text": "Ok, I'll give him his 50 horseshoes...   Here they are, all boxed up and ready to go!  Tell Verner it was a pleasure doing business, and be sure he reads the note attached to this crate!"
+    },
+    {
+        "id": "118",
+        "title": "The Price of Shoes",
+        "level": 18,
+        "zone": "Redridge Mountains",
+        "text": "I've been using so much iron keeping the Stormwind Guards outfitted, I don't have enough to supply the stable's horses with shoes!   Take this note to Blacksmith Argus in Goldshire.  It explains to him my problem and requests a shipment of horseshoes."
+    },
+    {
+        "id": "34",
+        "title": "An Unwelcome Guest",
+        "level": 24,
+        "zone": "Redridge Mountains",
+        "text": "Once again my garden was trampled and pillaged.  And I know the brute who is doing it.  It's that forsaken boar, the one Marshal Marris has taken to calling Bellygrub.   I won't be able to re-plant the daffodils until next season now.  Ruined!  All ruined by that one menacing boar.  Put an end to that pest!  Show me his tusk and I'd be happy to reward you.  He seems to spend his time foraging in the field southwest of Lakeshire but occasionally he roams over here and into my garden."
+    },
+    {
+        "id": "130",
+        "title": "Visit the Herbalist",
+        "level": 15,
+        "zone": "Redridge Mountains",
+        "text": "Before you go back to Darcy, can you bring her some flowers for me?  You can get them at the herbalist shop back in Lakeshire, at the west end of town.   But when you get the flowers...don't tell the herbalist, Martie, whom they're from, or whom they're for..."
+    },
+    {
+        "id": "129",
+        "title": "A Free Lunch",
+        "level": 15,
+        "zone": "Redridge Mountains",
+        "text": "Can you do me a favor?  I've prepared a lunch for Guard Parker , but he's out on patrol...he's a big, strong Stormwind guard who can defend himself, but it's much too dangerous out there for a townsperson like me.   So if you deliver his lunch for me, then come back here and I'll give you a free lunch!  Parker patrols the stretch of road leading to Duskwood."
+    },
+    {
+        "id": "244",
+        "title": "Encroaching Gnolls",
+        "level": 16,
+        "zone": "Redridge Mountains",
+        "text": "Hail, <class>.  I am charged to patrol this stretch of road.  Although the road is safe for now, I've seen gnoll encampments to the north and east of here.   Lakeshire must know of the gathering gnoll force!  Report to Deputy Feldon in Lakeshire and tell him of the gnolls.  Do this, and I'm sure Feldon will offer you a scout's wage.   Feldon's usually inspecting the area south of the bridge to Lakeshire."
+    },
+    {
+        "id": "131",
+        "title": "Delivering Daffodils",
+        "level": 15,
+        "zone": "Redridge Mountains",
+        "text": "Here is your bouquet.  I chose Daffodils for you.  They're my favorite!"
+    }
+]

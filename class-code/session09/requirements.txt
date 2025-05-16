@@ -1,0 +1,5 @@
+gensim
+matplotlib
+scikit-learn
+sentence-transformers
+seaborn

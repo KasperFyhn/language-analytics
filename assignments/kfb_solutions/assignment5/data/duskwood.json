@@ -1,0 +1,548 @@
+[
+    {
+        "id": "55",
+        "title": "Morbent Fel",
+        "level": 32,
+        "zone": "Duskwood",
+        "text": "Morbent Fel hides in his lair, the house perched atop the hill to the east overlooking the Raven Hill cemetery.  His time in this land is drawing to an end...   Use Morbent's Bane against him.  It will render his protective magics powerless.   Slay him.  Slay him, and save us from his wickedness.  Be the instrument of my revenge, and a hero of Duskwood !"
+    },
+    {
+        "id": "98",
+        "title": "The Legend of Stalvan",
+        "level": 35,
+        "zone": "Duskwood",
+        "text": "Stalvan Mistmantle led a life of depravity.  Innocent victims died by his hand.  Undoubtedly he is guilty of countless crimes.  Now the lunatic threatens Darkshire.  The Light only knows what sordid acts he is plotting.  Travel to his cottage just north of town, <class>, and execute Stalvan, once and for all.   When the deed is done, travel to Madame Eva 's and show her his family ring.  After all, it was her premonition that led to this gruesome discovery.  But Darkshire is safer because of her."
+    },
+    {
+        "id": "66",
+        "title": "The Legend of Stalvan",
+        "level": 28,
+        "zone": "Duskwood",
+        "text": "Last night a horrible disturbance rippled through my veins.  I sensed that my granddaughter, Alyssa, was in great danger.  I consulted the cards and Death stared up at me from the table.   After taking a long journey through a dark trance I was able to uncover a clue to this terrifying mystery.  A name came to me, the name of Stalvan.   Seek out the Clerk in the Town Hall and see if you can find out more about this character.  I fear for us all."
+    },
+    {
+        "id": "253",
+        "title": "Bride of the Embalmer",
+        "level": 30,
+        "zone": "Duskwood",
+        "text": "The Embalmer is a name told in one of our children's stories.  He was a kindly alchemist, driven mad by the death of his wife, Eliza.  To restore her, he used dark magic to place his own heart within the bosom of his dead spouse.   This revived Eliza...but it cursed her with a hunger for human flesh, forcing the Embalmer to keep her buried.   His heart is his power.  Find his wife's grave, retrieve his heart, and bring it to me while it still beats.  Do this and his power will be broken."
+    },
+    {
+        "id": "95",
+        "title": "Sven's Revenge",
+        "level": 25,
+        "zone": "Duskwood",
+        "text": "I used to work one of the farms to the southeast...until Dark Riders from Deadwind Pass descended upon my farm and slaughtered my family when I was away!   When I returned I saw a shadowy figure skulking near my barn, burying something.  He fled before I could catch him, and I couldn't linger for I was hot on the heels of the Dark Riders.  So I never discovered what was hidden.   If you can find what that shadowy figure buried, I would be grateful.  The hiding spot is behind the old stump near my barn."
+    },
+    {
+        "id": "228",
+        "title": "Mor'Ladim",
+        "level": 35,
+        "zone": "Duskwood",
+        "text": "From what my scouts tell me, Mor'Ladim wanders throughout Duskwood , following a strange and meandering path through the cemetery. We buried him out past the house on the hill, you know where that is?   There isn't anything I can do to help you, but I wish you good luck."
+    },
+    {
+        "id": "74",
+        "title": "The Legend of Stalvan",
+        "level": 28,
+        "zone": "Duskwood",
+        "text": "Inside the crate you find various objects: musty heirlooms, a family portrait, a few hunting trophies and some old books.  Near the bottom, underneath a ceramic vase, you uncover A Torn Journal Page ."
+    },
+    {
+        "id": "337",
+        "title": "An Old History Book",
+        "level": 25,
+        "zone": "Duskwood",
+        "text": "Although the cover of this book is marred by scratches and caked with mud, the words \"The History of Stormwind\" can still be read along its spine.  Upon opening the book, the seal of the Stormwind Library is clearly stamped on the book's first page.   It looks like someone checked out this book, and never returned it..."
+    },
+    {
+        "id": "225",
+        "title": "The Weathered Grave",
+        "level": 35,
+        "zone": "Duskwood",
+        "text": "The weathered grave marker reads simply:   MORGAN LADIMORE   <Upon further examination, you notice that dirt over the grave has been recently disturbed, and that a good amount of the dirt seems to have been displaced...>"
+    },
+    {
+        "id": "70",
+        "title": "The Legend of Stalvan",
+        "level": 28,
+        "zone": "Duskwood",
+        "text": "The name Stalvan rings a bell.  I remember now.   Many years back, on a stormy night, a messenger came in, seeking refuge for the night.  Near the stroke of midnight, the man ran down the stairs screaming, his face pale with fear.  Still wearing his bedclothes, he disappeared into the downpour.   In his haste he forgot his letters in the chest upstairs.  He never returned for them. One remains from that Stalvan fellow, intended for the Canal District in Stormwind.  Help yourself to it."
+    },
+    {
+        "id": "67",
+        "title": "The Legend of Stalvan",
+        "level": 28,
+        "zone": "Duskwood",
+        "text": "Stalvan, eh?  Let me check the town registry.   Stalvan. . .Stalvan. . .let's see.  Ah, here we go!  I have a record of a Mr. Stalvan Mistmantle.  The last recorded address is the Moonbrook Schoolhouse.  My, talk about outdated!   Do me a favor will you, friend?  If you happen to go out to Moonbrook, let me know if you get any update on this fellow.  I like to keep the records clean."
+    },
+    {
+        "id": "174",
+        "title": "Look To The Stars",
+        "level": 25,
+        "zone": "Duskwood",
+        "text": "My Gnomish friend, Cog, has promised to help me build a device which will let me peer towards the stars.  A truth exists, beyond magic, that can explain the strange transformation in the forest.   Bring to me a bronze tube made by a skilled engineer.  That is the first step, according to Cog's blueprint."
+    },
+    {
+        "id": "231",
+        "title": "A Daughter's Love",
+        "level": 35,
+        "zone": "Duskwood",
+        "text": "Here, take this and lay it on his grave. Maybe... somehow, he'll know that I'm okay, and that none of us hold him responsible for what happened.   <There are tears in her eyes now, as she slides a ring from her right hand, and presses it into your hands.>   And... thank you, <name>."
+    },
+    {
+        "id": "181",
+        "title": "Look To The Stars",
+        "level": 30,
+        "zone": "Duskwood",
+        "text": "Now there is just one more item needed to complete this device.  Cog's blueprint calls for a lens of some sort.  The only lens I know of that would be large enough will be very difficult to acquire.   There is an ogre by the name of Zzarc'Vul who resides in the mound in southern Duskwood .  If you can, bring to me his monocle and I will use that as our lens!"
+    },
+    {
+        "id": "321",
+        "title": "Lightforge Iron",
+        "level": 29,
+        "zone": "Duskwood",
+        "text": "The shipwrecks off the shore here are the doomed Third Fleet of Kul'Tiras, burned and sunk by Red Dragons during the last Great War.   The Fleet hailed from Lordaeron, but one ship, an Elvish Destroyer: Flying Osprey, was with it.  It was shipping a load of Lightforge Iron and joined the Third Fleet for protection.  Ironic that it sunk to the same dragons...   Enough history.  The Flying Osprey is wrecked to the south of Menethil Harbor.  If you find the Lightforge Iron there, bring it to me."
+    },
+    {
+        "id": "72",
+        "title": "The Legend of Stalvan",
+        "level": 28,
+        "zone": "Duskwood",
+        "text": "My father was the caretaker of the estate long before I was.  He had to mop the blood up after the massacre.  But that's neither here nor there.   The last funds of the Flintridge trust have dried up.  Now the last of the family possessions are headed for auction.  Blame the tax vultures.  I guess if you're really itching to learn more you're free to look through this junk.  Who knows what you might find."
+    },
+    {
+        "id": "453",
+        "title": "Finding the Shadowy Figure",
+        "level": 25,
+        "zone": "Duskwood",
+        "text": "Good luck, <name>.  I hope you find the chap, and I hope you find him alive.   If he's left the safety of Darkshire then he could be prey to the beasts of the wilds."
+    },
+    {
+        "id": "177",
+        "title": "Look To The Stars",
+        "level": 25,
+        "zone": "Duskwood",
+        "text": "The looking glass was one of my finest treasures until. . .the incident.  After that happened, I discarded it behind the barn.  There was an Insane Ghoul who used to roam back there.  Perhaps he picked it up.  Rumor has it the devilish beast resides in the Tranquil Gardens Cemetery."
+    },
+    {
+        "id": "134",
+        "title": "Ogre Thieves",
+        "level": 30,
+        "zone": "Duskwood",
+        "text": "A few weeks ago I was picking herbs far from my house, and a band of ogres attacked me!  I ran, and I was forced to leave behind a crate of precious tools and herbs.   After they chased me off, the ogres swaggered back to the ogre mound in southern Duskwood .  I'm sure my crate is somewhere near the mound.   Please, <name>, retrieve this crate for me for I miss it sorely."
+    },
+    {
+        "id": "75",
+        "title": "The Legend of Stalvan",
+        "level": 28,
+        "zone": "Duskwood",
+        "text": "There was a bundle of parchments in the chest upstairs when I moved into this place.  I looked at them once when I first arrived but I gave up once the fog hazed over my peepers.   Do an old, nearly-blind man a favor and check the chest upstairs for anything that might help you in your quest to discover more about this Stalvan character.  I'm pretty sure there's a faded journal page that might be of interest to you.  Bring it to me and I'll help in anyway I can."
+    },
+    {
+        "id": "1383",
+        "title": "Nothing But The Truth",
+        "level": 42,
+        "zone": "Duskwood",
+        "text": "I have just the right serum in mind. It will deal with the truth in precisely the way the truth should be dealt with.   For this concoction I will need several Shadow Panther hearts from the Swamp. I also require the enchanted fungus off of the Mire Lord who resides there. I am sure one as able as you, <name>, can persuade him to part with some.   Now the hard part will be locating a Deepstrider tumor from far-off Desolace. Very rarely the giants there become ill and a tumor forms.   Now, off you go!"
+    },
+    {
+        "id": "1395",
+        "title": "Supplies for Nethergarde",
+        "level": 45,
+        "zone": "Duskwood",
+        "text": "This crate of powerstones needs to go to Nethergarde Keep, in the Blasted Lands.  They won't hold their power for long, so we can't ship them with the next caravan.   You must take them, and you must take them quickly.   Bring them to Quartermaster Lungertz in Nethergarde Keep.  To reach the keep, you must travel east through Deadwind Pass, then east through the Swamp of Sorrows, then south through the Blasted Lands.   Use caution, <name>.  You will travel through dangerous lands, yet you must not fail."
+    },
+    {
+        "id": "173",
+        "title": "Worgen in the Woods",
+        "level": 28,
+        "zone": "Duskwood",
+        "text": "Darkness seems drawn inexorably to Duskwood . Master Carevin's quest is the expulsion of evil and heresy. Through our efforts are the people of Darkshire kept safe.   You believe yourself worthy to join us?   I once thought as you. Disillusioned by the complacency of the Watch, I joined Master Carevin. If you wish to prove yourself, it will not be through words.   Test your skills against the Nightbane Shadow Weaver worgen in Brightwood Grove--bright, hah!--and the Rotting Orchard."
+    },
+    {
+        "id": "97",
+        "title": "The Legend of Stalvan",
+        "level": 28,
+        "zone": "Duskwood",
+        "text": "Let Commander Ebonlocke know immediately that the handwriting matched, <name>!  Her suspicions were correct!"
+    },
+    {
+        "id": "323",
+        "title": "Proving Your Worth",
+        "level": 28,
+        "zone": "Duskwood",
+        "text": "Morbent Fel is a necromancer, and an ally to the dark riders.  I would pit you against the power of Morbent Fel, but I will not send you against that vile fiend without first knowing your strength.   You have already proven your bravery to me, but if you truly wish to face the necromancer, then you must now prove your skill against his minions."
+    },
+    {
+        "id": "78",
+        "title": "The Legend of Stalvan",
+        "level": 28,
+        "zone": "Duskwood",
+        "text": "I know of someone who might be able to assist you.  Back when I was leading the Stormwind Guard, we used to get drinks at the Scarlet Raven Tavern in Darkshire.  The Innkeeper there, Smitts, was quite an expert on the local lore.  Show him this page and see what he has to say about it."
+    },
+    {
+        "id": "58",
+        "title": "The Night Watch",
+        "level": 30,
+        "zone": "Duskwood",
+        "text": "The situation in Raven Hill is still grim.  The safety of Darkshire is in your hands, <name>.  I don't have enough Watchers to keep the town safe.  We need you to dispatch for Raven Hill yet again and rid the eastern mausoleum of 20 Plague Spreaders !"
+    },
+    {
+        "id": "90",
+        "title": "Seasoned Wolf Kabobs",
+        "level": 25,
+        "zone": "Duskwood",
+        "text": "Seasoned Wolf Kabobs are a house favorite!  Sure, I can make you some.  But first I'll need the supplies.  Bring me 10 Lean Wolf Flanks as well as some Stormwind Seasoning Herbs .  There are so many wolves here in the forest, I am sure finding the Flanks will be no problem.  For the herbs, seek out Felicia Gump in her canal district flower shop in Stormwind."
+    },
+    {
+        "id": "68",
+        "title": "The Legend of Stalvan",
+        "level": 28,
+        "zone": "Duskwood",
+        "text": "You find a Dusty Unsent Letter in the old footlocker ."
+    },
+    {
+        "id": "223",
+        "title": "Worgen in the Woods",
+        "level": 31,
+        "zone": "Duskwood",
+        "text": "Here you go, <name>. Bring this message to Master Carevin.   <He quickly removes a piece of faded parchment and offers it to you.>   A few more like you, and we will outnumber the Night Watch! Perhaps then we could complete the work that we few carry on today."
+    },
+    {
+        "id": "79",
+        "title": "The Legend of Stalvan",
+        "level": 28,
+        "zone": "Duskwood",
+        "text": "I followed the legend of that Stalvan character for years.  When those visiting nobles were slaughtered a few years back I went with Haggard to investigate.  I found these muddy pages but we were never able to link the handwriting to that crazy man in the woods.  Your trail of evidence proves his guilt.  Take this to Commander Ebonlocke immediately and fill her in on what you've discovered!"
+    },
+    {
+        "id": "245",
+        "title": "Eight-Legged Menaces",
+        "level": 21,
+        "zone": "Duskwood",
+        "text": "Hail, <class>. Perhaps you've seen those spiders that have taken over the western border? The eight-legged menaces are too much for us to handle, and the Commander hasn't enough manpower to spare so far from Darkshire.   I hate to ask this of you, but you seem like you might be able to handle them. I can't promise you anything of great value, but I can reward you if you can help root out the filthy bugs.   Oh, and a word of advice, you'll want to avoid their venom if you can."
+    },
+    {
+        "id": "325",
+        "title": "Armed and Ready",
+        "level": 29,
+        "zone": "Duskwood",
+        "text": "Here is the weapon against the fiend of which you spoke.  You're all ready, <name>.  Best of luck to you, and I look forward to your tale of glory!"
+    },
+    {
+        "id": "101",
+        "title": "The Totem of Infliction",
+        "level": 25,
+        "zone": "Duskwood",
+        "text": "As the mystical taint creeps through the forest, the need for self-protection is undeniable, <name>.  The winds whisper to me and they speak of a great danger which waits patiently for you in the near future.   If you wish to protect yourself, noble <class>, bring to me 10 ghoul fangs , 10 skeleton fingers and 5 vials of spider venom.  For you I shall enchant a Totem of Infliction which will harm those who attempt violent acts against you."
+    },
+    {
+        "id": "254",
+        "title": "Digging Through the Dirt",
+        "level": 35,
+        "zone": "Duskwood",
+        "text": "N/A"
+    },
+    {
+        "id": "251",
+        "title": "Translate Abercrombie's Note",
+        "level": 30,
+        "zone": "Duskwood",
+        "text": "Take the note you gave me to Sirra Von'Indi .  He's very learned in languages and ancient arts - if anyone here can translate this message, it's he."
+    },
+    {
+        "id": "252",
+        "title": "Translation to Ello",
+        "level": 30,
+        "zone": "Duskwood",
+        "text": "Oh my!  If what is written on this note is true, then Abercrombie's done something...unspeakable.   You better bring the translated note back to Ello.   And do so quickly, for I fear a doom already lumbers toward our town..."
+    },
+    {
+        "id": "401",
+        "title": "Wait for Sirra to Finish",
+        "level": 30,
+        "zone": "Duskwood",
+        "text": "I'm almost finished translating that note.  If you come back in a few moments I should be done."
+    },
+    {
+        "id": "80",
+        "title": "The Legend of Stalvan",
+        "level": 28,
+        "zone": "Duskwood",
+        "text": "I have had my eye on that creep, Stalvan, for quite sometime.  But if this page was written by the same hand it proves his guilt beyond a shadow of a doubt.   In all his days keeping the Town Registry, Clerk Daltry has become an expert at identifying handwriting.  Show him this page and see if the writing matches that of the registry signature."
+    },
+    {
+        "id": "69",
+        "title": "The Legend of Stalvan",
+        "level": 28,
+        "zone": "Duskwood",
+        "text": "Oh my!  Must have missed this the first time.  In the registry, right beneath the first address for Stalvan there's another one listed, only partially scratched out.  Looks like he was headed to The Lion's Pride Inn over in Goldshire.  Might want to check there, <name>."
+    },
+    {
+        "id": "156",
+        "title": "Gather Rot Blossoms",
+        "level": 24,
+        "zone": "Duskwood",
+        "text": "If you bring me some rot blossoms then I can brew you up a batch of zombie juice.   rot blossoms grow in strange places.  In particular, I hear you can find them inside the skulls of Skeletal Horrors and Skeletal Fiends... not that I've gotten close enough to look!   The Raven Hill Cemetery and the Tranquil Gardens are both lousy with those skeletons.  You may as well get rid of them while you're looking for rot blossoms .  The town of Darkshire would be grateful."
+    },
+    {
+        "id": "57",
+        "title": "The Night Watch",
+        "level": 26,
+        "zone": "Duskwood",
+        "text": "<name>, I'm getting reports of an undead infestation in the forest!  If you're up to the job, journey to the Raven Hill graveyard and slay 15 of those vile Skeletal Fiends and 15 Skeletal Horrors .  There are also reports of skeletons just south of Darkshire, in and around Tranquil Gardens Cemetery.  The undead must be driven from Duskwood !"
+    },
+    {
+        "id": "322",
+        "title": "Blessed Arm",
+        "level": 29,
+        "zone": "Duskwood",
+        "text": "There is a dwarven weaponsmith in the Dwarven District of Stormwind who can craft with lightforge iron.  His name is Grimand Elmore .   I've packed the iron you found into a crate.  Take it to Grimand and tell him your tale.  I'm sure he'll oblige someone on a quest such as yours, and craft for you a weapon - a weapon to give even Morbent Fel worry!"
+    },
+    {
+        "id": "93",
+        "title": "Dusky Crab Cakes",
+        "level": 20,
+        "zone": "Duskwood",
+        "text": "I'll let you in on a little secret - Dusky \"Crab\" Cakes are really made from spider legs!  I know it's a bit disgusting, but the cakes have a nice, tangy flavor and make great snacks!  Bring me Gooey Spider Legs and I'll whip you up a few of them.   I hear Venom Web Spiders are a good source - they nest to the north, between the foothills and the river."
+    },
+    {
+        "id": "270",
+        "title": "The Doomed Fleet",
+        "level": 29,
+        "zone": "Duskwood",
+        "text": "Years ago, the Third Fleet of Kul'Tiras sunk along the coasts of The Wetlands, an expanse of marsh north of the Dwarven kingdom of Ironforge.  Aboard one ship was a load of Lightforge Iron.   This metal is precious to us, for items crafted from it strike with holy truth.  If you are to face Morbent Fel, then you will need such a weapon.   Go to Menethil Harbor and speak with my dwarven colleague Glorin Steelbrow .  If that lost metal can be found, he'll know where to look."
+    },
+    {
+        "id": "240",
+        "title": "Return to Jitters",
+        "level": 20,
+        "zone": "Duskwood",
+        "text": "And here we are - \"Crab\" Cakes ala Grual!"
+    },
+    {
+        "id": "269",
+        "title": "Seeking Wisdom",
+        "level": 29,
+        "zone": "Duskwood",
+        "text": "Go to the city of Stormwind and speak with Bishop Farthing in the Cathedral of Light.  Give him Jitters' journal and tell him you mean to face Morbent Fel.   Although Stormwind has forsaken Darkshire, Farthing is a kind soul and very wise.  He may help you on your quest to save us.   Your mission is perilous, but hurry, <name>.  With each passing hour, the shadows of Duskwood grow ever darker."
+    },
+    {
+        "id": "175",
+        "title": "Look To The Stars",
+        "level": 25,
+        "zone": "Duskwood",
+        "text": "According to Cog's blueprint, what I need now is a way to reflect light.  I remember a woman by the name of Mary who became well known around these parts for always carrying a looking glass.  Perhaps you can track Mary down and see if she might lend us a reflective surface for this project?  I believe she once resided in southern Duskwood . . ."
+    },
+    {
+        "id": "163",
+        "title": "Raven Hill",
+        "level": 20,
+        "zone": "Duskwood",
+        "text": "Something's amiss at Raven Hill, <name>. Calor swears that someone--or something--is haunting the buildings there. Two nights running he's noticed the shadows moving, and the third before that he says he saw light in one of the windows.   If, as you say, you care about the safety of Duskwood , find out what monster haunts in Raven Hill."
+    },
+    {
+        "id": "222",
+        "title": "Worgen in the Woods",
+        "level": 31,
+        "zone": "Duskwood",
+        "text": "Your previous accomplishments have convinced me that you are ready to take on the toughest worgen infesting the woods.   Of the worgen that have made their new home here, the Vile Fangs and the Tainted Ones have proven the most dangerous. They've settled down near some of the caves and in the mine to the south.   From far away you can even see the light from their bonfires..."
+    },
+    {
+        "id": "227",
+        "title": "Morgan Ladimore",
+        "level": 35,
+        "zone": "Duskwood",
+        "text": "<He searches through the shelves and comes up with a leatherbound book.>   If you would like to know more, you might ask Althea, she's been the one to handle the... trouble... with him of late."
+    },
+    {
+        "id": "324",
+        "title": "The Lost Ingots",
+        "level": 29,
+        "zone": "Duskwood",
+        "text": "Having grabbed the single lightforge ingot from the waterlogged chest , it is clear that murlocs have stolen the rest.  Hunt the murloc raiders near the Flying Osprey wreckage for the lost lightforge iron."
+    },
+    {
+        "id": "165",
+        "title": "The Hermit",
+        "level": 25,
+        "zone": "Duskwood",
+        "text": "There was an old man who used to come into town to buy supplies rather frequently, but I haven't seen him for quite some time now. He lives out in a shack overlooking Raven Hill cemetery, if I remember correctly. Perhaps you should go see if something is amiss."
+    },
+    {
+        "id": "133",
+        "title": "Ghoulish Effigy",
+        "level": 27,
+        "zone": "Duskwood",
+        "text": "I live so far from the protection of town, it's a wonder the ghouls and the walking dead haven't eaten me!  In fact, just yesterday a pack of Bone Chewers was pounding on the walls of my house!   I want to make an effigy - a kind of \"scarecrow\" for Ghouls.  To do that I need some Ghoul Ribs .  You can get them from Flesh Eaters, Bone Chewers, Brain Eaters, Rotted Ones and Plague Spreaders.   Get the ribs for me, and I will repay you with some coin."
+    },
+    {
+        "id": "160",
+        "title": "Note to the Mayor",
+        "level": 30,
+        "zone": "Duskwood",
+        "text": "Take this note to Ello Ebonlocke, the Mayor of Darkshire.   He and I are old friends...and when he reads it and discovers what you did for me...I'm sure he'll be just as happy as I am!  Hahahaha!"
+    },
+    {
+        "id": "149",
+        "title": "Ghost Hair Thread",
+        "level": 24,
+        "zone": "Duskwood",
+        "text": "There is a poor, sad spirit, Blind Mary , who haunts an old farm house in the hills south of Darkshire.   Here, take this Spectral Comb and ask Blind Mary to comb her hair.  Then bring back the comb and I will glean from it the Ghost Hair I'll need for the thread.   And take care, for dark things now lurk near that house..."
+    },
+    {
+        "id": "5",
+        "title": "Jitters' Growling Gut",
+        "level": 20,
+        "zone": "Duskwood",
+        "text": "I've been stuck hiding in this ghost town for weeks, and I haven't eaten anything but grubs and weeds!  I need some decent food, and I'm willing to trade well for it.   Bring me a feast and I'll pay you handsomely.   I heard Chef Grual at the Scarlet Raven Tavern in Darkshire makes very good Dusky Crab Cakes..."
+    },
+    {
+        "id": "229",
+        "title": "The Daughter Who Lived",
+        "level": 35,
+        "zone": "Duskwood",
+        "text": "I should have told you this earlier...   How do I put this...   Morgan may have believed that his family was all dead, but, in fact, his daughter Sarah Ladimore is now a Watcher. She's always been troubled by the... circumstances... surrounding her father's death. Perhaps you could go to bring the news to her."
+    },
+    {
+        "id": "262",
+        "title": "The Shadowy Figure",
+        "level": 25,
+        "zone": "Duskwood",
+        "text": "I must know who was that skulker in the shadows I saw the night my family was killed!   Please, <name>, you have shown your resourcefulness.  Please find that shadowy figure.  I must learn what secrets he holds!   I do not have clues that you do not already know, but here - take the book you found at my farm.  Perhaps some of the townsfolk can link this book with its owner."
+    },
+    {
+        "id": "159",
+        "title": "Juice Delivery",
+        "level": 24,
+        "zone": "Duskwood",
+        "text": "Here's your Zombie Juice...   ...and be careful with this stuff.  It's strong enough to raise the dead!"
+    },
+    {
+        "id": "268",
+        "title": "Return to Sven",
+        "level": 25,
+        "zone": "Duskwood",
+        "text": "The book you found was only half finished.  I had to leave it at Sven's farm when I fled there...   Here.  Take my completed journal to Sven.  It describes more fully what happened at his farm.   Although this journal has been my only company these past weeks, if giving it up keeps me from having to face Sven and his wrath, then I do it willingly!"
+    },
+    {
+        "id": "1372",
+        "title": "Nothing But The Truth",
+        "level": 42,
+        "zone": "Duskwood",
+        "text": "Our expeditionary force was sent at Varimathras's behest to survey lower Azeroth.   While out scouting I noticed a human Infiltrator spying on Beggar's Haunt. Before I could apprehend him, some of our orcish... brethren... captured him and took him to Stonard, their stronghold in Swamp of Sorrows.   I want to... help... our orcish allies. They did not see our camp here but nonetheless I want to lend a hand.   Work with Faustin here to develop a... truth serum for our friend in Stonard."
+    },
+    {
+        "id": "230",
+        "title": "Sven's Camp",
+        "level": 25,
+        "zone": "Duskwood",
+        "text": "Digging through the mound, you find a small, dirt-stained book.   The book has no title, but...it has information Sven would like to know."
+    },
+    {
+        "id": "526",
+        "title": "Lightforge Ingots",
+        "level": 29,
+        "zone": "Duskwood",
+        "text": "You might have found one lightforge ingot in that chest, but that's not enough to craft anything decent!   You should go back there and look for more.  Maybe the murlocs around that wrecked ship have lightforge ingots on them."
+    },
+    {
+        "id": "164",
+        "title": "Deliveries to Sven",
+        "level": 23,
+        "zone": "Duskwood",
+        "text": "Do you know Sven? Now, there is a man who does the work of the Light! He and his followers keep a camp at the northwestern edge of Duskwood .   Unfortunately, because they are so few, they cannot even spare a man to fetch supplies from town. Will you deliver these supplies to him?"
+    },
+    {
+        "id": "157",
+        "title": "Deliver the Thread",
+        "level": 24,
+        "zone": "Duskwood",
+        "text": "Here is your thread, <name>.  It has a thousand uses, from binding evil spirits to sewing life into inanimate objects."
+    },
+    {
+        "id": "148",
+        "title": "Supplies from Darkshire",
+        "level": 24,
+        "zone": "Duskwood",
+        "text": "Oh, what is a poor old man to do?  I need some supplies from Darkshire, but the village is so far away and I am so old and feeble...I would never make the trip.   Can you go to Darkshire and bring me back some Ghost Hair Thread?  You can get it from Madame Eva at her home on the Darkshire square."
+    },
+    {
+        "id": "56",
+        "title": "The Night Watch",
+        "level": 24,
+        "zone": "Duskwood",
+        "text": "As Commander of The Night Watch it is my sworn duty to protect the citizens of Darkshire.  Stormwind has retracted their commissioned guards from their posts here, leaving us to our own devices.   If you feel worthy of the task, we need your help! Assist The Night Watch by venturing forth into Tranquil Gardens, just south of Darkshire, and slaying 8 Skeletal Warriors and 6 Skeletal Mages .  The undead threat must be thwarted!"
+    },
+    {
+        "id": "221",
+        "title": "Worgen in the Woods",
+        "level": 29,
+        "zone": "Duskwood",
+        "text": "You might have noticed some larger worgen wandering around with the Shadow Weavers in the woods? From what we can tell, these Dark Runners make up the bulk of the worgen numbers.   On my rangings, I've also noticed that they have overrun the Rotting Orchard southwest of town. These worgen are a bit tougher than the last you faced.   Be on your guard."
+    },
+    {
+        "id": "1388",
+        "title": "Nothing But The Truth",
+        "level": 42,
+        "zone": "Duskwood",
+        "text": "Everything is proceeding according to plan, <name>. I want you to give this truth serum to Deathstalker Zraedus and he'll show you how to administer it.... properly.   Haha!"
+    },
+    {
+        "id": "265",
+        "title": "The Shadowy Search Continues",
+        "level": 25,
+        "zone": "Duskwood",
+        "text": "Here is your book back, <name>, and I bid you fortune with your search.  If you ask others in town, perhaps they can offer you more clues.   And here is one more for you - although the author of this book is a stranger to Darkshire, the book itself was purchased here."
+    },
+    {
+        "id": "226",
+        "title": "Wolves at Our Heels",
+        "level": 21,
+        "zone": "Duskwood",
+        "text": "Sven and I have dangerous days ahead of us, what with the Necromancer to the east and all.  And out here alone as we are, we have to hunt for our own food.  It seems every time I'm heading back to camp with some meat on me, starving or rabid dire wolves come out of the forest wanting a bite.  It goes without saying, living out here is dangerous work!   But if you can rid us of some of those wolves, we'd have an easier time of it.  They mostly prowl north and east of here, near the river."
+    },
+    {
+        "id": "158",
+        "title": "Zombie Juice",
+        "level": 24,
+        "zone": "Duskwood",
+        "text": "I need a bottle of a certain liquor - Zombie Juice. Tavernkeep Smitts at the Scarlet Raven Tavern in Darkshire should have some."
+    },
+    {
+        "id": "1391",
+        "title": "Nothing But The Truth",
+        "level": 42,
+        "zone": "Duskwood",
+        "text": "We need to operate with a certain amount of discretion. After all, it's not like you're going to waltz in there and convince the fool to drink Faustin's concoction here, right?   But if there's one thing those humans cannot deny it's the booze. I'll take Faustin's serum and mix it into this ale. I guarantee the poor sap will show no reluctance when it comes to chug-a-lugging a brew.   Make haste to Stonard in the Swamp of Sorrows, <name>. And keep our little mission nice and quiet..."
+    },
+    {
+        "id": "266",
+        "title": "Inquire at the Inn",
+        "level": 25,
+        "zone": "Duskwood",
+        "text": "Here is your book, and good luck with your inquiries.   You might want to expand your search to the inn.  If the person whom you seek spent time in town, then chances are someone saw him there."
+    },
+    {
+        "id": "154",
+        "title": "Return the Comb",
+        "level": 24,
+        "zone": "Duskwood",
+        "text": "NO!!!!!"
+    },
+    {
+        "id": "81716",
+        "title": "Recover Incursion Field Report: Duskwood",
+        "level": 27,
+        "zone": "Duskwood",
+        "text": "Thank Elune you're here, <name>.  We've been overrun with demons coming through the Emerald Dream Gate. I've been cut off from my scout there. Please find Scout Charla by the Dream Gate and come back with her field report. And along the way, kill a few of those swarming demons. Once you get back with the report, I'll give you a follow-up mission to act on that intelligence."
+    },
+    {
+        "id": "402",
+        "title": "Sirra is Busy",
+        "level": 10,
+        "zone": "Duskwood",
+        "text": "I'm sorry, but with the town in the state it's in I'm afraid have other duties to attend to.  Perhaps later, if we survive, I can finish this translation.   See if you've already completed this by typing:\n/run print(C_QuestLog.IsQuestFlaggedCompleted(402))       $('.db-page-collection-tracker-cta').append(WH.Tools.createWowheadClientCta());"
+    }
+]

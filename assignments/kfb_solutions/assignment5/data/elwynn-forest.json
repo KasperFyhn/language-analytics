@@ -1,0 +1,345 @@
+[
+    {
+        "id": "123",
+        "title": "The Collector",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "This note is a schedule with a list of days and times when a person -- described only as \"The Collector\" -- will receive a shipment of gold from the mines in Elwynn Forest .   From the schedule, it looks as if the Collector resides near the Brackwell Pumpkin Patch in eastern Elwynn.   This sounds important.  You should report it to Marshal Dughan in Goldshire."
+    },
+    {
+        "id": "147",
+        "title": "Manhunt",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "If the \"Collector\" is taking gold from our mines then he's stealing from the kingdom!  Bring the Collector to justice, and bring me the ring mentioned in the pickup schedule you gave me.  It may tell us whom the Collector is working for...   That Pickup Schedule says the Collector is hiding out at the Brackwell Pumpkin Patch.  You should search for him there."
+    },
+    {
+        "id": "87",
+        "title": "Goldtooth",
+        "level": 8,
+        "zone": "Elwynn Forest",
+        "text": "I was playing near the Fargodeep Mine, and I think I dropped, er...I mean I saw, the old lady's necklace.  Don't ask me how it got there...it wasn't me!   Well anyway, I saw this big, gold-toothed kobold pick up the necklace and run into the mine.  Go find that kobold and you'll find the necklace, I swear!"
+    },
+    {
+        "id": "176",
+        "title": "Wanted: \"Hogger\"",
+        "level": 11,
+        "zone": "Elwynn Forest",
+        "text": "Wanted: Hogger   A huge gnoll, Hogger, is prowling the woods in southwestern Elwynn.  He has overpowered all attempts at his capture.   The Stormwind Army has placed a generous bounty on the Gnoll.  To earn the reward, bounty hunters should bring proof of Hogger's demise to Marshal Dughan in Goldshire."
+    },
+    {
+        "id": "88",
+        "title": "Princess Must Die!",
+        "level": 9,
+        "zone": "Elwynn Forest",
+        "text": "The Brackwells have a prize-winning pig, Princess.  The sow is HUGE, and she got that way from sneaking over here and eating my veggies!   So before she comes to our fields...Princess must die!  Bring me her collar as proof of the deed and I'll give you something for your time!   Princess is usually over at the Brackwell Pumpkin Patch, to the east and beyond the Maclure farm.  Get her before she gets hungry and comes back here!"
+    },
+    {
+        "id": "239",
+        "title": "Westbrook Garrison Needs Help!",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "The Garrison on our western border sends word of increasing gnoll and thief activity.  They're requesting we send more Stormwind soldiers... but we just don't have any to spare!   If you can help, we could use it.  Go and speak with Deputy Rainer at the Westbrook Garrison and see what he needs done.   The Garrison is down the road to the west.  After you cross the bridge over the small brook it will be to the right."
+    },
+    {
+        "id": "37",
+        "title": "Find the Lost Guards",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "A few days ago we sent two Guards, Rolf and Malakai, to investigate along the river, and they have not yet returned.  To complete my report, I must know what happened to those men.   Travel north along the river and find the guards... or their remains."
+    },
+    {
+        "id": "45",
+        "title": "Discover Rolf's Fate",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "Upon further searching the area, you find webbed footprints leading east along the shore of Stone Cairn Lake.  In the distance to the east, you can just barely see a Murloc village.   Perhaps Rolf's fate ended there..."
+    },
+    {
+        "id": "59",
+        "title": "Cloth and Leather Armor",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "For your shrewdness and valor, I have a marker here that is good for one piece of armor.  I want you to take it to Sara Timberlain at the Eastvale Logging Camp.  Give her the marker, and she will fashion the armor for you.  And after you receive it, <name>, use it in the defense of Elwynn.   The Eastvale Logging Camp is beyond Guard Thomas' post to the east."
+    },
+    {
+        "id": "76",
+        "title": "The Jasperlode Mine",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "Thanks to you we know the Fargodeep Mine is infested with kobolds.  Now we need a scout to investigate the more distant Jasperlode Mine.   Explore Jasperlode and confirm any kobold presence.  To reach the mine, travel east along the road until you reach the Tower of Azora.  From the tower, head north and you'll find the mine in the foothills."
+    },
+    {
+        "id": "11",
+        "title": "Riverpaw Gnoll Bounty",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "Gnolls, brutish creatures with no decent business in these lands, have been seen along the borders of Elwynn Forest .  A large pack of them, many more than we can handle alone, have infested the woods south of the guard tower yonder.  Another group has infested the areas near Stone Cairn Lake to the east.   The Stormwind Army will commend whomever helps kill them.  Bring me their painted gnoll armbands as proof of your deed."
+    },
+    {
+        "id": "62",
+        "title": "The Fargodeep Mine",
+        "level": 7,
+        "zone": "Elwynn Forest",
+        "text": "The mine in Northshire isn't the only one with problems!  I have reports that the Fargodeep Mine in Elwynn has also become a haven for Kobolds.   Explore the mine and confirm these reports, then return to me.  The mine is almost due south of Goldshire, between the Stonefield and Maclure homesteads."
+    },
+    {
+        "id": "61",
+        "title": "Shipment to Stormwind",
+        "level": 7,
+        "zone": "Elwynn Forest",
+        "text": "My brother Morgan is waiting in Stormwind for my shipment of candles.  I don't have enough time to make the trip myself, but if you'd like to take him the shipment, he'll pay you well.   I've packed up the candles, and you can find Morgan in our shop, Pestle's Apothecary, in the Stormwind Trade District."
+    },
+    {
+        "id": "47",
+        "title": "Gold Dust Exchange",
+        "level": 7,
+        "zone": "Elwynn Forest",
+        "text": "The Kobolds in these parts sometimes carry Gold Dust on them.  I could really use the stuff - bring me a load of it and I'll give you the best price in town...best price in town!   You can find kobolds in the Fargodeep Mine to the south, and around the Jasperlode Mine to the northeast."
+    },
+    {
+        "id": "109",
+        "title": "Report to Gryan Stoutmantle",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "Looks to me you've seen quite a bit of combat in your time, <class>.  If you haven't already, you should report to Gryan Stoutmantle .  He heads up the People's Militia, aimed at protecting the farmlands of Westfall.  I bet he could use your help.  You can usually find him in the stone tower on Sentinel Hill, just off the road in the middle of Westfall."
+    },
+    {
+        "id": "60",
+        "title": "Kobold Candles",
+        "level": 7,
+        "zone": "Elwynn Forest",
+        "text": "Hello, <good sir/my lady>!  Do you have a moment?   My brother and I run an apothecary in Stormwind, and I'm here to gather large candles for their wax.  Can you help me?   You can get large candles from kobolds, and I hear rumors that kobolds are infesting the Elwynn mines ... the Fargodeep mine to the south and Jasperlode Mine to the east.  I suggest looking for candles in one of those places."
+    },
+    {
+        "id": "85",
+        "title": "Lost Necklace",
+        "level": 6,
+        "zone": "Elwynn Forest",
+        "text": "I lost my necklace, and think that guttersnipe Billy Maclure took it!  He's usually scuttling like a rat around the Maclure vineyards east of here.   Get my necklace back for me, and you'll warm an old widow's heart."
+    },
+    {
+        "id": "112",
+        "title": "Collecting Kelp",
+        "level": 7,
+        "zone": "Elwynn Forest",
+        "text": "I can make an invisibility liquor for Maybell, so she can slip away from the Maclure Vineyards and go to Tommy Joe.  But to make the Liquor, I need some crystal kelp.   Although the kelp usually grows in the ocean... sometimes murlocs collect it.  See if the murlocs near Crystal Lake have any.  Crystal Lake is just east of Goldshire."
+    },
+    {
+        "id": "5545",
+        "title": "A Bundle of Trouble",
+        "level": 9,
+        "zone": "Elwynn Forest",
+        "text": "I've got a real problem on my hands. I have a deadline looming for an order of lumber, and I'm running out of time. The wolves and bears north of here have chased my workers away from the bundles of wood that they've already chopped.   I've already talked to Deputy Rainer about clearing the animals, but I need someone to go collect the wood for me. If you could collect eight bundles of wood for me I might just make my deadline."
+    },
+    {
+        "id": "54",
+        "title": "Report to Goldshire",
+        "level": 5,
+        "zone": "Elwynn Forest",
+        "text": "<name>, you are a <class> with proven interest in the security of Northshire.  You are now tasked with the protection of the surrounding Elwynn Forest .   If you accept this duty, then I have prepared papers that must be delivered to Marshal Dughan in Goldshire.  Goldshire lies along the southern road, past the border gates."
+    },
+    {
+        "id": "35",
+        "title": "Further Concerns",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "If you are concerned that the rumors of murlocs are true, then do this -- travel to the eastern Elwynn bridge and speak with Guard Thomas .  He has been stationed at the bridge for the past week and will know the state of the area.   Bring me his report."
+    },
+    {
+        "id": "46",
+        "title": "Bounty on Murlocs",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "The Stormwind Army has placed a bounty on murloc lurkers and foragers in Elwynn.  Slaughter them and bring me their torn murloc fins , and the Stormwind Army will reward you well.   The murlocs have built a village at Stone Cairn Lake north of here, and another to the south where the stream forks."
+    },
+    {
+        "id": "114",
+        "title": "The Escape",
+        "level": 7,
+        "zone": "Elwynn Forest",
+        "text": "Take this invisibility liquor to young Maybell.  It should last long enough for her to visit Tommy Joe."
+    },
+    {
+        "id": "83",
+        "title": "Red Linen Goods",
+        "level": 9,
+        "zone": "Elwynn Forest",
+        "text": "The Defias gang in Northshire wears burlap masks, but the Defias in Elwynn wear linen which I can use to make fine linen goods.   Bring me red linen bandanas and I'll use them to fashion something for you.   Defias gang members have camps pocketed throughout Elwynn."
+    },
+    {
+        "id": "6",
+        "title": "Bounty on Garrick Padfoot",
+        "level": 5,
+        "zone": "Elwynn Forest",
+        "text": "Garrick Padfoot - a cutthroat who's plagued our farmers and merchants for weeks - was seen at a shack near the vineyards, which lies east of the Abbey and across the bridge.  Bring me the villain's head, and earn his bounty!   But be wary, <name>.  Garrick has gathered a gang of thugs around him.  He will not be an easy man to reach."
+    },
+    {
+        "id": "106",
+        "title": "Young Lovers",
+        "level": 6,
+        "zone": "Elwynn Forest",
+        "text": "Oh, I'm cursed!  My heart belongs to Tommy Joe Stonefield , but our families are bitter enemies.  So I can't see him, even though my eyes ache to gaze upon that handsome face!   Please, take this letter and give it to Tommy Joe.  He's usually at the river to the west of the Stonefield Farm, which is due west of here."
+    },
+    {
+        "id": "52",
+        "title": "Protect the Frontier",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "Hail, <name>.  Wild animals are growing more and more aggressive the farther we get from Goldshire, and the Eastvale Logging Camp suffers nearly constant attacks from wolves and bears!   We could use your help out here."
+    },
+    {
+        "id": "39",
+        "title": "Deliver Thomas' Report",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "Tell Marshal Dughan of Malakai and Rolf's deaths, and report to him that the Murlocs in eastern Elwynn cannot be contained by our current troop presence.   I know we don't have many troops to spare, but hopefully Dughan can find someone."
+    },
+    {
+        "id": "21",
+        "title": "Skirmish at Echo Ridge",
+        "level": 5,
+        "zone": "Elwynn Forest",
+        "text": "Your previous investigations are proof that the Echo Ridge Mine needs purging.  Return to the mine and help clear it of kobolds.   Waste no time, <name>.  The longer the kobolds are left unmolested in the mine, the deeper a foothold they gain in Northshire."
+    },
+    {
+        "id": "16",
+        "title": "Give Gerard a Drink",
+        "level": 1,
+        "zone": "Elwynn Forest",
+        "text": "N/A"
+    },
+    {
+        "id": "783",
+        "title": "A Threat Within",
+        "level": 1,
+        "zone": "Elwynn Forest",
+        "text": "I hope you strapped your belt on tight, young <class>, because there is work to do here in Northshire.   And I don't mean farming.   The Stormwind guards are hard pressed to keep the peace here, with so many of us in distant lands and so many threats pressing close.  And so we're enlisting the aid of anyone willing to defend their home.  And their alliance.   If you're here to answer the call, then speak with my superior, Marshal McBride .  He's inside the abbey behind me."
+    },
+    {
+        "id": "7",
+        "title": "Kobold Camp Cleanup",
+        "level": 2,
+        "zone": "Elwynn Forest",
+        "text": "Your first task is one of cleansing, <name>.  A clan of kobolds have infested the woods to the north.  Go there and fight the kobold vermin you find.  Reduce their numbers so that we may one day drive them from Northshire."
+    },
+    {
+        "id": "3903",
+        "title": "Milly Osworth",
+        "level": 4,
+        "zone": "Elwynn Forest",
+        "text": "You've shown yourself a dependable <class>, <name>.  Dependable, and not afraid to get your hands dirty, eh?   I have a friend, Milly Osworth , who's in some trouble.  She's over with her wagon on the other side of the abbey, near the stable.  I'm sure she could use a pair of hands like yours."
+    },
+    {
+        "id": "18",
+        "title": "Brotherhood of Thieves",
+        "level": 4,
+        "zone": "Elwynn Forest",
+        "text": "Recently, a new group of thieves has been hanging around Northshire.  They call themselves the Defias Brotherhood, and have been seen across the river to the east.   I don't know what they're up to, but I'm sure it's not good!  Bring me the bandanas they wear, and I'll reward you with a weapon."
+    },
+    {
+        "id": "86",
+        "title": "Pie for Billy",
+        "level": 6,
+        "zone": "Elwynn Forest",
+        "text": "Maybe if I got a pie, I could tell you who has that necklace.  And you know, I think that old Bernice lady at that other farm makes great Pork Belly Pies...   Maybe if you gave her some chunks of boar meat from the boars that hang around our farms, and told her what it was for, she'd bake up a pie for you."
+    },
+    {
+        "id": "3904",
+        "title": "Milly's Harvest",
+        "level": 4,
+        "zone": "Elwynn Forest",
+        "text": "A gang of brigands, the Defias, moved into the Northshire Vineyards while I was harvesting!  I reported it to the Northshire guards and they assured me they'd take care of things, but... I'm afraid for my crop of grapes!  If the Defias don't steal them then I fear our guards will trample them when they chase away the thugs.   Please, you must help me!  I gathered most of my grapes into buckets, but I left them in the vineyards to the southeast.   Bring me those crates!  Save my harvest!"
+    },
+    {
+        "id": "3905",
+        "title": "Grape Manifest",
+        "level": 4,
+        "zone": "Elwynn Forest",
+        "text": "Now that my crop is saved, take this Grape Manifest to Brother Neals .  He manages the store of food and drink in Northshire, and I'm sure he'll be delighted to hear that he has fresh grapes.   You'll find Brother Neals in the abbey, in the bell tower... where he likes to taste his wine."
+    },
+    {
+        "id": "5261",
+        "title": "Eagan Peltskinner",
+        "level": 2,
+        "zone": "Elwynn Forest",
+        "text": "Eagan Peltskinner is looking for someone to hunt wolves for him.  That's good news, because we're seeing a lot more wolves in Northshire Valley lately.   If you're interested then speak with Eagan.  He's around the side of the abbey, to the left."
+    },
+    {
+        "id": "111",
+        "title": "Speak with Gramma",
+        "level": 6,
+        "zone": "Elwynn Forest",
+        "text": "Please, <name>, talk with my Gramma.  If anyone can find a way to bring me together with Maybell, she can.   She's inside our house east of here."
+    },
+    {
+        "id": "33",
+        "title": "Wolves Across the Border",
+        "level": 2,
+        "zone": "Elwynn Forest",
+        "text": "I hate those nasty timber wolves!  But I sure like eating wolf steaks...  Bring me tough wolf meat and I will exchange it for something you'll find useful.   tough wolf meat is gathered from hunting the timber wolves and young wolves wandering the Northshire countryside."
+    },
+    {
+        "id": "2158",
+        "title": "Rest and Relaxation",
+        "level": 5,
+        "zone": "Elwynn Forest",
+        "text": "Every adventurer should rest when exhaustion sets in - and there is no finer place to get rest and relaxation than at the Lion's Pride Inn!   My best friend, Innkeeper Farley , runs the Lion's Pride. If you tell him I sent you, he may give you the special discounted rates on food and drink.   To find the Lion's Pride Inn, travel south along the road from here -- you can't miss it!"
+    },
+    {
+        "id": "107",
+        "title": "Note to William",
+        "level": 6,
+        "zone": "Elwynn Forest",
+        "text": "I bet William Pestle has a potion to unite our two young lovers!   Here, take this note to William.  He's staying at the Lion's Pride Inn in Goldshire."
+    },
+    {
+        "id": "5805",
+        "title": "Welcome!",
+        "level": 1,
+        "zone": "Elwynn Forest",
+        "text": "Welcome to the World of Warcraft!   As special thanks for purchasing the World of Warcraft Collector's Edition, turn in this gift voucher to Merissa Stilwell in Northshire Valley.  You'll then be given a gift: a little companion to join you on your quest for adventure and glory.   Thanks again, and enjoy your stay in the World of Warcraft!"
+    },
+    {
+        "id": "15",
+        "title": "Investigate Echo Ridge",
+        "level": 3,
+        "zone": "Elwynn Forest",
+        "text": "<name>, my scouts tell me that the kobold infestation is larger than we had thought.  A group of kobold workers has camped near the Echo Ridge Mine to the north.   Go to the mine and remove them.  We know there are at least 10.  Kill them, see if there are more, then report back to me."
+    },
+    {
+        "id": "7962",
+        "title": "Wabbit Pelts",
+        "level": 1,
+        "zone": "Elwynn Forest",
+        "text": "I want LeCrafty rabbit pelts.  Get me some from LeCrafty Rabbits."
+    },
+    {
+        "id": "84",
+        "title": "Back to Billy",
+        "level": 6,
+        "zone": "Elwynn Forest",
+        "text": "Here you go.  And when you give this pie to that Billy, you tell him I hope he chokes on it!"
+    },
+    {
+        "id": "40",
+        "title": "A Fishy Peril",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "<name>, there's a new threat in Elwynn Forest !  Murlocs are swimming up the streams of eastern Elwynn, scaring away fish and attacking gentle folk!   I warned Marshal Dughan , but he's more worried about the gnolls and the bandits.  He's not convinced that the murlocs are a danger.   Please, <name>, speak to Dughan and persuade him to send more troops to the east!"
+    },
+    {
+        "id": "71",
+        "title": "Report to Thomas",
+        "level": 10,
+        "zone": "Elwynn Forest",
+        "text": "Now that you have both medallions, deliver them to Guard Thomas at the bridge so that he might know the fate of his murdered guards."
+    },
+    {
+        "id": "7961",
+        "title": "Waskily Wabbits!",
+        "level": 1,
+        "zone": "Elwynn Forest",
+        "text": "These rabbits are breeding uncontrollably.  Something must be done!"
+    }
+]
