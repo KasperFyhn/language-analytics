@@ -175,3 +175,10 @@ cython_debug/
 
 # IDEs
 .idea
+
+# Data obtained by setup.sh in data/
+data/**/*.txt
+data/**/*.csv
+data/**/*.json
+data/**/README
+

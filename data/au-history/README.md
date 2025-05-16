@@ -1,0 +1,1 @@
+Obtained from https://international.au.dk/about/profile/history in March 2025.
