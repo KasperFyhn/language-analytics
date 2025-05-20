@@ -180,5 +180,8 @@ cython_debug/
 data/**/*.txt
 data/**/*.csv
 data/**/*.json
+data/**/*.xml
+data/**/*.xls
+data/**/*.doc
 data/**/README
 
